@@ -1,4 +1,4 @@
-# Landing Pages - Ballerini Bot
+# Landing Pages - Balle Bot
 
 <div align="center" >     
 <img src="img/pageBallerini.png" alt="pageBallerini"/>
@@ -6,7 +6,7 @@
 
 ## O Projeto
 
-Esse projeto, refere-se ao meu treinamento em criação de páginas web utilizando HTML e CSS. Ele se chama Ballerini Bot e foi feito acompanhando a aula da Rafaeella Ballerini na plataforma do youtube.
+Esse projeto, refere-se ao meu treinamento em criação de páginas web utilizando HTML e CSS. Ele se chama Balle Bot e foi feito acompanhando a aula da Rafaeella Ballerini na plataforma do youtube.
 
 ## Funcionamento
 
